@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header{
+    background-color: rgb(39, 39, 241);
+    .navbar{
+        .collapse{
+            ul{
+                li{
+                    a{
+                        color: white !important;
+
+                        &:hover{
+                            color: red !important;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

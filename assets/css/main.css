@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+header {
+  background-color: rgb(39, 39, 241);
+}
+header .navbar .collapse ul li a {
+  color: white !important;
+}
+header .navbar .collapse ul li a:hover {
+  color: red !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+main {
+  background-color: red;
+  width: 100%;
+  min-height: 60px;
+}
+main .navbar .collapse ul li a {
+  color: black !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#serverSec {
+  background-color: blue;
+  width: 100%;
+}
+#serverSec .navbar .collapse ul li a {
+  color: white !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+#bloggerSec {
+  background-color: orange;
+  width: 100%;
+}
+#bloggerSec .navbar .collapse ul li a {
+  color: white !important;
+}

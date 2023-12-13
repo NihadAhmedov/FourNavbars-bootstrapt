@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+main{
+    background-color: red;
+    width: 100%;
+    min-height: 60px;
+    .navbar{
+        .collapse{
+            ul{
+                li{
+                    a{
+                        color: black !important;
+
+                
+                    }
+                }
+            }
+        }
+    }
+}

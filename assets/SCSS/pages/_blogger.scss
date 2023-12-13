@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  
+  #bloggerSec {
+    background-color: orange;
+    width: 100%;
+    .navbar {
+      .collapse {
+        ul {
+          li {
+            a {
+              color: white !important;
+            }
+          }
+        }
+      }
+    }
+  }
